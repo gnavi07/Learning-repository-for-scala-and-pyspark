@@ -15,7 +15,9 @@ employee_access
 Derive access_information table based on employee_access table
 access_information
 Expected output
+
 |EmployeeID|Access|
+|----------|------|
 |1123|Development|
 |1123|Integration|
 |1235|Development|
